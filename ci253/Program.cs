@@ -10,6 +10,9 @@ namespace ci253
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("testtest");
+            Console.WriteLine("testtest");
+            Console.WriteLine("testtest");
         }
     }
 }
